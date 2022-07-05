@@ -1,0 +1,1 @@
+//Switch to index.html
